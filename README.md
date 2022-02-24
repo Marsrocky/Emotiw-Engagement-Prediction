@@ -1,6 +1,6 @@
 ## Engagement level prediction
 
-It implements the work in the [EmotiW18 challenge](https://sites.google.com/view/emotiw2018/home). In the engagement intensity prediction task, we win the champion and the details are refered in our paper "Deep Recurrent Multi-instance Learning with Spatio-temporal Features for Engagement Intensity Prediction. International Conference on Multimodal Interaction (ICMI’18), ACM."
+It implements the work in the [EmotiW18 challenge](https://sites.google.com/view/emotiw2018/home). In the engagement intensity prediction task, we win the champion and the details are refered in our paper "Deep Recurrent Multi-instance Learning with Spatio-temporal Features for Engagement Intensity Prediction. International Conference on Multimodal Interaction (ICMI’18), ACM." ([link](https://dl.acm.org/doi/abs/10.1145/3242969.3264981))
 
 ### Requirement
 
@@ -9,6 +9,15 @@ It implements the work in the [EmotiW18 challenge](https://sites.google.com/view
 * [OpenFace](http://cmusatyalab.github.io/openface/)
 * [LBPTOP](http://www.cse.oulu.fi/CMV/Downloads/LBPMatlab)
 
-### Remarks
+### Reference
 
-We only provide the code for feature extraction, training and testing. As our deep multi-instance model is still modified for further improvement, we will release the model code soon. 
+Please cite the paper if you think it is helpful.
+```
+@inproceedings{yang2018deep,
+  title={Deep recurrent multi-instance learning with spatio-temporal features for engagement intensity prediction},
+  author={Yang, Jianfei and Wang, Kai and Peng, Xiaojiang and Qiao, Yu},
+  booktitle={Proceedings of the 20th ACM international conference on multimodal interaction},
+  pages={594--598},
+  year={2018}
+}
+```
