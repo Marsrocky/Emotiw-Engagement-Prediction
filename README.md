@@ -1,6 +1,8 @@
-## Engagement level prediction
+# Engagement level prediction
 
-It implements the work in the [EmotiW18 challenge](https://sites.google.com/view/emotiw2018/home). In the engagement intensity prediction task, we win the 1st place and the details are refered in our paper "Deep Recurrent Multi-instance Learning with Spatio-temporal Features for Engagement Intensity Prediction. International Conference on Multimodal Interaction (ICMI’18), ACM." ([link](https://dl.acm.org/doi/abs/10.1145/3242969.3264981))
+![GitHub](https://img.shields.io/github/license/Marsrocky/Emotiw-Engagement-Prediction)
+
+It implements the work in the [EmotiW18 challenge](https://sites.google.com/view/emotiw2018/home). In the engagement intensity prediction task, we win the **1st place** and the details are refered in our paper "Deep Recurrent Multi-instance Learning with Spatio-temporal Features for Engagement Intensity Prediction. International Conference on Multimodal Interaction (ICMI’18), ACM." ([link](https://dl.acm.org/doi/abs/10.1145/3242969.3264981))
 
 ### Requirement
 
